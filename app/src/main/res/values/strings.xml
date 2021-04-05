@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">googleMapTest</string>
+    <string name="title_activity_maps">현재 위치정보 얻기</string>
+</resources>
